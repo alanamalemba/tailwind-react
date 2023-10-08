@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  /* outline: dotted red 1px; */
+}
+
+body {
+  background-color: #000300;
+}
